@@ -1,8 +1,5 @@
 #pragma once
 
-#include <iostream>
-#include <decorator.h>
-
 class decoratee_A
 {
 public:

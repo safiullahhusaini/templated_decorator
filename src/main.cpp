@@ -1,6 +1,6 @@
-
-#include "decoratee.h"
 #include <iostream>
+#include "decoratee.h"
+#include "decorator.h"
 
 int main() 
 {   
